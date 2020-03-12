@@ -28,7 +28,7 @@
     "lodash": "4.17.11",
     "memoize-one": "^5",
     "moment": "2.22.2",
-    "nock": "8.2.2",
+    "nock": "11.9.0",
     "node-bourbon": "4.2.8",
     "node-sass": "4.9.0",
     "normalizr": "2.3.1",
