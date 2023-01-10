@@ -28,7 +28,7 @@
     "lodash": "4.17.11",
     "memoize-one": "^5",
     "moment": "2.22.2",
-    "nock": "8.2.2",
+    "nock": "9.2.1",
     "node-bourbon": "4.2.8",
     "node-sass": "4.9.0",
     "normalizr": "2.3.1",
@@ -51,7 +51,7 @@
     "redux-thunk": "2.3.0",
     "require-hacker": "2.1.4",
     "select": "1.1.2",
-    "sockjs-client": "1.1.5",
+    "sockjs-client": "1.2.0",
     "sqlite-parser": "1.0.1",
     "whatwg-fetch": "0.11.1",
     "when": "3.7.8"
